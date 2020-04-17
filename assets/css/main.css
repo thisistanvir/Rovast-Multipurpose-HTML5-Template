@@ -603,7 +603,7 @@ input:focus[type="url"], input:focus[type="text"], input:focus[type="email"], in
     left: 0;
     top: 90%;
     background: #fff;
-    width: 185px;
+    width: 200px;
     padding: 10px 0;
     border: 1px solid #dedede;
     border-top: 9px solid #1293d4;
